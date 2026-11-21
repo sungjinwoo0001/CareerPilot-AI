@@ -29,7 +29,7 @@ CareerPilot AI helps students and job seekers identify skill gaps, prepare for t
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/sungjinwoo0001/CareerPilot-AI
    cd CareerPilotAI
    ```
 
