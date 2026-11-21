@@ -30,7 +30,7 @@ CareerPilot AI helps students and job seekers identify skill gaps, prepare for t
 
    ```bash
    git clone https://github.com/sungjinwoo0001/CareerPilot-AI
-   cd CareerPilotAI
+   cd CareerPilot-AI
    ```
 
 2. Install dependencies:
